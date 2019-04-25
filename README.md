@@ -1,0 +1,1 @@
+Plain and simple __React__ app with __Parcel__ build.
